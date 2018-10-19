@@ -1,6 +1,6 @@
 # Alibaba Cloud Go Software Development Kit
 [![Build Status](https://travis-ci.org/aliyun/alibaba-cloud-sdk-go.svg?branch=master)](https://travis-ci.org/aliyun/alibaba-cloud-sdk-go) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/aliyun/alibaba-cloud-sdk-go)](https://goreportcard.com/report/github.com/aliyun/alibaba-cloud-sdk-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/inviu/alibaba-cloud-sdk-go)](https://goreportcard.com/report/github.com/inviu/alibaba-cloud-sdk-go)
 
 [中文文档](./README_zh.md)
 
@@ -26,7 +26,7 @@ If you have any problem while using Go SDK, please join the **DingTalk group: 11
 Run the following commands to install Alibaba Cloud Go SDK:
 
 ```powershell
-glide get github.com/aliyun/alibaba-cloud-sdk-go
+glide get github.com/inviu/alibaba-cloud-sdk-go
 ```
 ## Use Go SDK
 
@@ -42,8 +42,8 @@ The following code example shows the three main steps to use Alibaba Cloud Go SD
 package main
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/services/ecs"
-    "github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/services/ecs"
+    "github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
 	"fmt"
 )
 

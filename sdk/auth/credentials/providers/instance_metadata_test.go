@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
 	"net/http"
 	"net/http/httptest"
 	"strings"

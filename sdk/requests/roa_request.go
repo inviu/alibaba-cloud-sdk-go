@@ -16,7 +16,7 @@ package requests
 
 import (
 	"bytes"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/utils"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/utils"
 	"io"
 	"net/url"
 	"sort"

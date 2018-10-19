@@ -17,9 +17,9 @@ package sdk
 import (
 	"crypto/tls"
 	"encoding/json"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/responses"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"net/http"

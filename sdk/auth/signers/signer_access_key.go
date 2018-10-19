@@ -15,7 +15,7 @@
 package signers
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
 )
 
 type AccessKeySigner struct {

@@ -2,7 +2,7 @@ package integration
 
 import (
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/services/cdn"
+	"github.com/inviu/alibaba-cloud-sdk-go/services/cdn"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

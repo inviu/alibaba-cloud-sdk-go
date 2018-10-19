@@ -16,12 +16,12 @@ package sdk
 
 import (
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/endpoints"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/endpoints"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/errors"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/responses"
 	"net"
 	"net/http"
 	"strconv"

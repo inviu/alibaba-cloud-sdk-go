@@ -16,8 +16,8 @@ package r_kvstore
 // Changes may cause incorrect behavior and will be lost if the code is regenerated.
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/responses"
 )
 
 // ModifyInstanceSpecPreCheck invokes the r_kvstore.ModifyInstanceSpecPreCheck API synchronously

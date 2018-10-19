@@ -15,7 +15,7 @@
 package requests
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/utils"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/utils"
 	"io"
 	"strings"
 )

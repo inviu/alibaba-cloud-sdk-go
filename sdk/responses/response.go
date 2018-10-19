@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"encoding/xml"
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/errors"
 	"io/ioutil"
 	"net/http"
 	"strings"

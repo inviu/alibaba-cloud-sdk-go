@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
 )
 
 func TestNewChainProvider_Retrieve_UseFirstCredential(t *testing.T) {

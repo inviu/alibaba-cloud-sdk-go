@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth"
 )
 
 const (

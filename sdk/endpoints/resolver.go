@@ -17,9 +17,9 @@ package endpoints
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/responses"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/errors"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/responses"
 	"sync"
 )
 

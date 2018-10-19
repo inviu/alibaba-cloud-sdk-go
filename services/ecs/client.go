@@ -16,8 +16,8 @@ package ecs
 // Changes may cause incorrect behavior and will be lost if the code is regenerated.
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth"
 )
 
 // Client is the sdk client struct, each func corresponds to an OpenAPI

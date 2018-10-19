@@ -15,7 +15,7 @@ package endpoints
 
 import (
 	"encoding/json"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
 	"sync"
 	"time"
 )

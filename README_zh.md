@@ -1,6 +1,6 @@
 # 阿里云开发者Go工具套件
 [![Build Status](https://travis-ci.org/aliyun/alibaba-cloud-sdk-go.svg?branch=master)](https://travis-ci.org/aliyun/alibaba-cloud-sdk-go) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/aliyun/alibaba-cloud-sdk-go)](https://goreportcard.com/report/github.com/aliyun/alibaba-cloud-sdk-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/inviu/alibaba-cloud-sdk-go)](https://goreportcard.com/report/github.com/inviu/alibaba-cloud-sdk-go)
 
 欢迎使用阿里云开发者工具套件（SDK）。阿里云Go SDK让您不用复杂编程即可访问云服务器、云监控等多个阿里云服务。这里向您介绍如何获取阿里云Go SDK并开始调用。
 
@@ -15,13 +15,13 @@
 使用`go get`下载安装SDK
 
 ```
-go get -u github.com/aliyun/alibaba-cloud-sdk-go/sdk
+go get -u github.com/inviu/alibaba-cloud-sdk-go/sdk
 ```
 
 如果您使用了glide管理依赖，您也可以使用glide来安装阿里云GO SDK
 
 ```
-glide get github.com/aliyun/alibaba-cloud-sdk-go
+glide get github.com/inviu/alibaba-cloud-sdk-go
 ```
 
 另外，阿里云Go SDK也会发布在 https://develop.aliyun.com/tools/sdk#/go 这个地址。
@@ -37,7 +37,7 @@ glide get github.com/aliyun/alibaba-cloud-sdk-go
 package main
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/services/ecs"
+	"github.com/inviu/alibaba-cloud-sdk-go/services/ecs"
 	"fmt"
 )
 
@@ -151,8 +151,8 @@ CommonAPI，需要配合相应的API文档使用，以查询API的相关信息�
 package main
 
 import (
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/requests"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/requests"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk"
 	"fmt"
 )
 

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/auth/credentials"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/auth/credentials"
 )
 
 func TestEnvProvider_Retrieve_NewRamRoleArnCredential(t *testing.T) {

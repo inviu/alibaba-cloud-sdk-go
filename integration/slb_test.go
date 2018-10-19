@@ -2,8 +2,8 @@ package integration
 
 import (
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/utils"
-	"github.com/aliyun/alibaba-cloud-sdk-go/services/slb"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/utils"
+	"github.com/inviu/alibaba-cloud-sdk-go/services/slb"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"strconv"

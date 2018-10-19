@@ -3,7 +3,7 @@ package requests
 import (
 	"bytes"
 	"fmt"
-	"github.com/aliyun/alibaba-cloud-sdk-go/sdk/errors"
+	"github.com/inviu/alibaba-cloud-sdk-go/sdk/errors"
 	"io"
 	"strings"
 )
